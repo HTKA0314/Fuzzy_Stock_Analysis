@@ -1,0 +1,24 @@
+venv/
+.venv/
+env/
+.env
+
+# 2. Cache và Metadata
+__pycache__/
+*.pyc
+*.swp
+
+# 3. File Hệ thống/IDE (PyCharm/VS Code)
+.idea/
+.vscode/
+.DS_Store
+
+# 4. File Output (kết quả chạy)
+*.csv
+*.xlsx
+*.log
+
+# 5. File nén (Nếu bạn tạo file zip/rar trong thư mục này)
+*.zip
+*.rar
+*.7z
